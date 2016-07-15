@@ -18,6 +18,9 @@ You have been summoned by the King of the Upper Realms to help defend and push b
 <a href="http://imgur.com/rs7kdcG"><img src="http://i.imgur.com/rs7kdcG.png" title="In-app Purchase" height = 250/></a>
 <a href="http://imgur.com/E2WRgoo"><img src="http://i.imgur.com/E2WRgoo.png" title="Credits" height = 250/></a>
 
+## Videos
+[Tutorial Level](https://youtu.be/6Rum4RQN9Wg)
+
 ## Features
 -Easy to learn and Intuitive Controls
 
