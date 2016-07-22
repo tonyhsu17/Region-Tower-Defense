@@ -19,7 +19,9 @@ You have been summoned by the King of the Upper Realms to help defend and push b
 <a href="http://imgur.com/E2WRgoo"><img src="http://i.imgur.com/E2WRgoo.png" title="Credits" height = 250/></a>
 
 ## Videos
-[Tutorial Level](https://youtu.be/6Rum4RQN9Wg)
+[Gameplay - Tutorial Level](https://youtu.be/6Rum4RQN9Wg)
+[Gameplay - First Level](https://youtu.be/VCbjuCQX4tg)
+[Gameplay - Second Level, Defeated](https://youtu.be/i5bR52hODVs)
 
 ## Features
 -Easy to learn and Intuitive Controls
