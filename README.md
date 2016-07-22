@@ -20,7 +20,9 @@ You have been summoned by the King of the Upper Realms to help defend and push b
 
 ## Videos
 [Gameplay - Tutorial Level](https://youtu.be/6Rum4RQN9Wg)
+
 [Gameplay - First Level](https://youtu.be/VCbjuCQX4tg)
+
 [Gameplay - Second Level, Defeated](https://youtu.be/i5bR52hODVs)
 
 ## Features
